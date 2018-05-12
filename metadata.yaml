@@ -1,0 +1,40 @@
+_repo: The-Deipnosophists-or-Banquet-of-the-Learned-of-Athen-us_36921
+_version: 0.1.0
+alternative_title: Deipnosophistae. English
+contributor:
+  translator:
+    agent_name: Yonge, Charles Duke
+    alias: Yonge, C. D. (Charles Duke)
+    birthdate: 1812
+    deathdate: 1891
+    gutenberg_agent_id: '3581'
+    url: http://www.gutenberg.org/2009/agents/3581
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Duke_Yonge
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Athenaeus, of Naucratis
+    aliases:
+    - Athenaeus Naucratita
+    - Athenæus
+    gutenberg_agent_id: '38538'
+    url: http://www.gutenberg.org/2009/agents/38538
+description: ''
+gutenberg_issued: '2011-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36921'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civilization, Greco-Roman'
+- !lcsh 'Greece -- Social life and customs'
+- !lcsh 'Dinners and dining -- Greece'
+- !lcsh 'Homosexuality -- Greece'
+- !lcc 'PA'
+title: The Deipnosophists; or,  Banquet of the Learned of Athenæus
+url: http://www.gutenberg.org/ebooks/36921
